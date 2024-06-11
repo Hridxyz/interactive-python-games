@@ -93,7 +93,7 @@ pip install simplegui
 Clone this repository:
 
 ```sh
-git clone [https://github.com/yourusername/interactive-programming-python.git](https://github.com/Hridxyz/interactive-python-games/)
+git clone [https://github.com/Hridxyz/interactive-python-games]
 ```
 
 Navigate to the project directory and run the desired game script:
