@@ -14,17 +14,16 @@ This repository contains a series of games and interactive applications built us
 4. [Pong](#pong)
 5. [RiceRocks](#ricerocks)
 6. [Rock Paper Scissors Lizard Spock](#rock-paper-scissors-lizard-spock)
-7. [Shrubbery](#shrubbery)
-8. [Spaceship](#spaceship)
-9. [StopWatch](#stopwatch)
-10. [2048](#2048)
-11. [Tic-Tac-Toe (Monte Carlo)](#tic-tac-toe-monte-carlo)
-12. [Yahtzee](#yahtzee)
-13. [Cookie Clicker](#cookie-clicker)
-14. [Zombie Apocalypse](#zombie-apocalypse)
-15. [Word Wrangler](#word-wrangler)
-16. [Tic-Tac-Toe (Minimax)](#tic-tac-toe-minimax)
-17. [The Fifteen Puzzle](#the-fifteen-puzzle)
+7. [Spaceship](#spaceship)
+8. [StopWatch](#stopwatch)
+9. [2048](#2048)
+10. [Tic-Tac-Toe (Monte Carlo)](#tic-tac-toe-monte-carlo)
+11. [Yahtzee](#yahtzee)
+12. [Cookie Clicker](#cookie-clicker)
+13. [Zombie Apocalypse](#zombie-apocalypse)
+14. [Word Wrangler](#word-wrangler)
+15. [Tic-Tac-Toe (Minimax)](#tic-tac-toe-minimax)
+16. [The Fifteen Puzzle](#the-fifteen-puzzle)
 
 ## Projects
 
@@ -46,17 +45,11 @@ An asteroid-shooting game inspired by the classic arcade game Asteroids.
 ### Rock Paper Scissors Lizard Spock
 An extended version of the classic Rock Paper Scissors game with additional choices: Lizard and Spock.
 
-### Shrubbery
-A whimsical game inspired by Monty Python where players navigate a knight through various challenges.
-
 ### Spaceship
 A space shooter game where the player controls a spaceship to avoid obstacles and shoot enemies.
 
 ### StopWatch
 A simple stopwatch game where the player tries to stop the timer at exactly 10 seconds.
-
-### 2048 (Merge)
-A variation of the popular 2048 puzzle game where the player merges tiles with the same numbers to reach the 2048 tile.
 
 ### 2048
 The classic 2048 puzzle game implemented in Python.
