@@ -49,7 +49,7 @@ python Spaceship.py
 
 ## Screenshot
 
-![Spaceship Game Screenshot](Screenshot 2024-06-13 at 10.55.49 AM.png)
+![Spaceship Game Screenshot](SpaceshipGame.png)
 
 ## Example Output
 
